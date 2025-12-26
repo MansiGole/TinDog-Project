@@ -63,5 +63,3 @@ TinDog is a fictional product and not a real application.
 
 ⭐ If you like this project, feel free to explore or fork the repository!
 
-## 📂 Project Structure
-
